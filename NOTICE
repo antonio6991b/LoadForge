@@ -1,0 +1,26 @@
+LoadForge
+Copyright 2025 Anton Bolgov
+
+This product includes software developed by:
+
+== Spring Framework ==
+- Spring Boot (https://spring.io/)
+- Spring Data JDBC
+- Spring Data JPA
+- Spring Web
+- Spring Thymeleaf
+- Spring Data MongoDB
+Licensed under Apache License 2.0
+
+== PostgreSQL JDBC Driver ==
+- PostgreSQL JDBC (https://jdbc.postgresql.org/)
+Licensed under BSD-2-Clause License
+
+== Log4j ==
+- Apache Log4j Core (https://logging.apache.org/log4j)
+Licensed under Apache License 2.0
+
+== Other Notices ==
+This software may include additional third-party components
+with their own license requirements. Please refer to the
+documentation of each component for details.
